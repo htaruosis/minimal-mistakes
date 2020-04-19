@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Future posts
 permalink: /future-posts/
 ---
