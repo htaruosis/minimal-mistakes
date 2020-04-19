@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Your Name"
+  name             : "David Sisourath"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
-  location         : #"Somewhere"
-  email            :
+  location         : "Melbourne, Australia"
+  email            : #
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -282,8 +282,19 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: true
       share: true
-      related: true
+      related: false
+      sidebar:
+        nav: "docs"
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
