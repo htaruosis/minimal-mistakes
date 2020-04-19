@@ -1,8 +1,9 @@
 ---
 layout: single
-title: You have reached my test post
+title: Lorem Ipsum
 categories: [test]
 tags: [test]
+search: false
 excerpt_separator: <!--more-->
 ---
 
