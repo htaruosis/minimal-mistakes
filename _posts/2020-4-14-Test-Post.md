@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Lorem Ipsum
+title: Happy Birthday Daryl
 categories: [test]
 tags: [test]
 search: false
