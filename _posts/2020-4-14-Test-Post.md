@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Happy Birthday Daryl
+title: We are up and running!
 categories: [test]
 tags: [test]
 search: false

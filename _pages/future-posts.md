@@ -4,7 +4,7 @@ title: Future posts
 permalink: /future-posts/
 ---
 
-### A quick glance at what's to come <span style="font-weight:normal">(in no particular order)</span>
+### A quick glance at what's to come <!--<span style="font-weight:normal">(in no particular order)</span>-->
 * Malop Street - Revitalising Central Geelong Action Plan
 * Street blades across Melbourne
 * Separated bicycle paths in new precinct structure plans
