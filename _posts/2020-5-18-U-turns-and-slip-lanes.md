@@ -5,7 +5,7 @@ categories: [roads]
 tags: [road rules, roads]
 search: true
 excerpt_separator: <!--more-->
-published: false
+published: true
 ---
 
 U-turns are illegal at signalised intersections in all States and Territories except Victoria, unless a *U-turn permitted* sign is displayed. Less than 10 per cent of signalised intersections in these jurisdictions permit these movements, and [debate remains on whether they should be allowed](http://casr.adelaide.edu.au/publications/researchreports/CASR017.pdf).
