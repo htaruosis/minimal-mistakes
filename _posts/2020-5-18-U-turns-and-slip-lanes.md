@@ -76,6 +76,8 @@ The examples above all have *U-turn must give way* signs at locations where slip
 
 ##### Extreme cases where the law may not be practicable
 
+Note the slip lanes, zoom in closer to the median strip to see the *U-turn must give way* sign.
+
 <iframe src="https://www.google.com/maps/embed?pb=!4v1589723468550!6m8!1m7!1sgwdDJkf82zJ2HUa80AN7Gg!2m2!1d-37.81082299908576!2d145.2377536900007!3f263.13686453761267!4f0.9302461799680657!5f1.7256781151316587" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 Credit to VicRoads for installing a *no U-turn* sign to avoid U-turners giving way to three lanes of turning traffic in the middle of an intersection.
