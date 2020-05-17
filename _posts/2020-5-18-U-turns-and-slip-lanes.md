@@ -97,5 +97,5 @@ In the examples above, the slip lanes are around 20 metres away from the interse
   * [RACV comments on this topic](https://www.racv.com.au/on-the-road/driving-maintenance/road-safety/road-rules/making-turns.html)  
 >   Give way to all other vehicles and pedestrians when making a U-turn. This includes giving way to vehicles turning left from slip lane or a side street even if they have a a 'Give Way' or 'Stop' sign.
   
-*This post contains images derived from VicRoads handbook and edited for the purposes of this post; this does not intend to represent the position of VicRoads.*
+*This post contains images derived from VicRoads handbook and edited for the purposes of this post; this does not intend to represent the position of the Department of Transport.*
   
