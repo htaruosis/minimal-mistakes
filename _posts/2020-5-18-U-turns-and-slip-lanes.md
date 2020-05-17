@@ -62,6 +62,8 @@ Digging deeper into the regulations, [Reg 67](http://classic.austlii.edu.au/au/l
 
 <img src="/images/2020-05/UTurnMustGiveWay.svg" alt="U-turn must give way sign" height="201" width="121" />
 
+*Note the slip lanes and zoom in closer to the median strip to see the U-turn must give way sign.*
+
 <iframe src="https://www.google.com/maps/embed?pb=!4v1589722726690!6m8!1m7!1sGATYWUxUS4jQHbCLopwEzQ!2m2!1d-37.67804465614542!2d144.8840509394715!3f71.23733611918833!4f-1.2860458826190637!5f2.4302599229141446" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1589722773811!6m8!1m7!1sBNCDzveqo2lZbaOiaLq4YA!2m2!1d-37.87624011639269!2d145.2572684598747!3f104.40331359187714!4f3.7791633559063342!5f1.4196504197113278" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
@@ -79,8 +81,6 @@ The examples above all have *U-turn must give way* signs at locations where slip
 <iframe src="https://www.google.com/maps/embed?pb=!4v1589723468550!6m8!1m7!1sgwdDJkf82zJ2HUa80AN7Gg!2m2!1d-37.81082299908576!2d145.2377536900007!3f263.13686453761267!4f0.9302461799680657!5f1.7256781151316587" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 Credit to VicRoads for installing a *no U-turn* sign to avoid U-turners giving way to three lanes of turning traffic in the middle of an intersection.
-
-*Note the slip lanes and zoom in closer to the median strip to see the U-turn must give way sign.*
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1589723640446!6m8!1m7!1so-b9xD2Lt5m8-c5vObU67A!2m2!1d-37.81616035030646!2d145.2268699045921!3f64.79480529716125!4f-2.3357791988403562!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
