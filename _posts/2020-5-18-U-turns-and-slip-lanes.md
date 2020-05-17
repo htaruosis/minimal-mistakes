@@ -92,4 +92,6 @@ In the examples above, the slip lanes are around 20 metres away from the interse
   * [Policy and Application for 'U-turn Permitted' Signs at Traffic Signal Controlled Intersections](https://www.mainroads.wa.gov.au/BuildingRoads/StandardsTechnical/RoadandTrafficEngineering/TrafficManagement/TrafficSignals/Pages/Policy_Application_Guidelines_for_U_turn_Permitted%20Signs.aspx) from Main Roads WA.
   * Discussion on Whirlpool on this very topic. [Thread 1](https://forums.whirlpool.net.au/archive/1802100), [Thread 2](https://forums.whirlpool.net.au/archive/2380303)
   * [Should U-turns be permitted at signalised intersections?](http://casr.adelaide.edu.au/publications/researchreports/CASR017.pdf) -- report on changes to U-turn laws in South Australia
+  * [RACV comments on this topic](https://www.racv.com.au/on-the-road/driving-maintenance/road-safety/road-rules/making-turns.html)  
+>   Give way to all other vehicles and pedestrians when making a U-turn. This includes giving way to vehicles turning left from slip lane or a side street even if they have a a 'Give Way' or 'Stop' sign.
   
