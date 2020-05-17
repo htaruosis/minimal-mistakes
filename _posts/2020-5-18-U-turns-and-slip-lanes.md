@@ -74,13 +74,13 @@ Digging deeper into the regulations, [Reg 67](http://classic.austlii.edu.au/au/l
 
 The examples above all have *U-turn must give way* signs at locations where slip lanes are present, not conforming with the VicRoads TEM. This could indicate that the community has a poor understanding of give way rules when U-turning, and where these signs are not displayed, there may be high non-compliance increasing the likelihood of an incident occurring. If these signs are needed to support the road rules, perhaps the rules are not widely understood, confusing and or impracticable and must change.
 
-##### Extreme cases where the law may not be practicable
-
-Note the slip lanes, zoom in closer to the median strip to see the *U-turn must give way* sign.
+##### Some more interesting cases
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1589723468550!6m8!1m7!1sgwdDJkf82zJ2HUa80AN7Gg!2m2!1d-37.81082299908576!2d145.2377536900007!3f263.13686453761267!4f0.9302461799680657!5f1.7256781151316587" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 Credit to VicRoads for installing a *no U-turn* sign to avoid U-turners giving way to three lanes of turning traffic in the middle of an intersection.
+
+*Note the slip lanes and zoom in closer to the median strip to see the U-turn must give way sign.*
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1589723640446!6m8!1m7!1so-b9xD2Lt5m8-c5vObU67A!2m2!1d-37.81616035030646!2d145.2268699045921!3f64.79480529716125!4f-2.3357791988403562!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
@@ -96,4 +96,6 @@ In the examples above, the slip lanes are around 20 metres away from the interse
   * [Should U-turns be permitted at signalised intersections?](http://casr.adelaide.edu.au/publications/researchreports/CASR017.pdf) -- report on changes to U-turn laws in South Australia
   * [RACV comments on this topic](https://www.racv.com.au/on-the-road/driving-maintenance/road-safety/road-rules/making-turns.html)  
 >   Give way to all other vehicles and pedestrians when making a U-turn. This includes giving way to vehicles turning left from slip lane or a side street even if they have a a 'Give Way' or 'Stop' sign.
+  
+*This post contains images derived from VicRoads handbook and edited for the purposes of this post; this does not intend to represent the position of VicRoads.*
   
