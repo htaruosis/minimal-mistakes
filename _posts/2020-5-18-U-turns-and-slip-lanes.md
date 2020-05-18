@@ -76,7 +76,9 @@ Digging deeper into the regulations, [Reg 67](http://classic.austlii.edu.au/au/l
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1589722826703!6m8!1m7!1s0lp1GCGa__Kb4J-5Wb3JVQ!2m2!1d-37.81603588330508!2d145.2022798299336!3f281.3244225875481!4f1.1858419186522724!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-The examples above all have *U-turn must give way* signs at locations where slip lanes are present, not conforming with the VicRoads TEM. This could indicate that the community has a poor understanding of give way rules when U-turning, and where these signs are not displayed, there may be high non-compliance increasing the likelihood of an incident occurring. If these signs are needed to support the road rules, perhaps the rules are not widely understood, confusing and or impracticable and must change.
+The examples above all have *U-turn must give way* signs at locations where slip lanes are present, not conforming with the VicRoads TEM. This could indicate that the community has a poor understanding of give way rules when U-turning, and where these signs are not displayed, there may be high non-compliance increasing the likelihood of an incident occurring. 
+
+If these signs are needed to enforce a rule which otherwise would have been ignored, perhaps the rules are not widely understood, confusing or impracticable, and in need of change.
 
 ##### Some more interesting cases
 
