@@ -21,8 +21,8 @@ header:
         position: absolute;
         top: 0;
         left: 0;
-        width: 75% !important;
-        height: 75% !important;
+        width: 90% !important;
+        height: 90% !important;
     }
 </style>
 
