@@ -22,7 +22,7 @@ header:
         top: 0;
         left: 0;
         width: 95% !important;
-        height: 95% !important;
+        height: 98% !important;
     }
 </style>
 
