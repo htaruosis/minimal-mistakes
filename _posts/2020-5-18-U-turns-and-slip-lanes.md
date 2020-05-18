@@ -16,7 +16,7 @@ U-turns are illegal at signalised intersections in all States and Territories ex
 
 ### The situation in Victoria
 
-U-turns are permitted at all intersections unless a *no U-turn* sign is displayed ([Reg 40](http://classic.austlii.edu.au/au/legis/vic/consol_reg/rsrr2017208/s40.html) and [Reg 41](http://classic.austlii.edu.au/au/legis/vic/consol_reg/rsrr2017208/s41.html)). The *U-turn permitted* sign is not used in Victoria.
+U-turns are permitted at all intersections unless a *no U-turn* sign is displayed ([Reg 40](http://classic.austlii.edu.au/au/legis/vic/consol_reg/rsrr2017208/s40.html) and [Reg 41](http://classic.austlii.edu.au/au/legis/vic/consol_reg/rsrr2017208/s41.html)). The *U-turn permitted* sign is generally not used in Victoria.
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1589719731603!6m8!1m7!1sbUmI50Mf6ZYuzWglqp99iA!2m2!1d-37.85191329529134!2d145.1320206176233!3f138.1386659721681!4f6.506240904894639!5f1.1999060282269944" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 <!--![Driving performing a U-turn at an intersection](/images/2020-05/U-turn-at-intersection.png)-->
