@@ -7,7 +7,7 @@ search: true
 excerpt_separator: <!--more-->
 published: true
 header:
-  teaser: "/images/2020-05/UTurnGiveWayNoColour.png"
+  og_image: "/images/2020-05/UTurnGiveWayNoColour.png"
 ---
 
 <style>
