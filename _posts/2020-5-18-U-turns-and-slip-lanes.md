@@ -1,9 +1,10 @@
 ---
 layout: single
-title: "U-turns and slip lanes: who gives way?"
+title: "U-turns vs slip lanes: who gives way?"
 categories: [roads]
 tags: [road rules, roads]
 search: true
+excerpt: "The slip lane is further along the road, and vehicles in the slip lane must give way to vehicles on the road, right?"
 excerpt_separator: <!--more-->
 published: true
 header:
