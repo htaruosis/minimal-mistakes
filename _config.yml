@@ -106,7 +106,7 @@ author:
   name             : "David Sisourath"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
-  location         : "Melbourne, Australia"
+  location         : #"Melbourne, Australia"
   email            : #
   links:
     - label: "Email"
