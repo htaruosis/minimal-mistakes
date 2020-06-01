@@ -73,7 +73,7 @@ gallery4:
 </style>
 
 
-Earlier this year, a decision by the City of Greater Geelong sparked outrage and opposition from some within the community including Member for Bellarine Lisa Neville. This decision was overruled when the Victorian State Government declared the Green Spine precinct, Mercer Street, Garden Stret and Malop Street, a Designated Road Project.
+Earlier this year, a decision by the City of Greater Geelong sparked outrage and opposition from some within the community including Member for Bellarine Lisa Neville. This decision was overruled when the Victorian State Government declared the Green Spine precinct, Mercer Street, Garden Street and Malop Street, a Designated Road Project.
 
 ### Background
 
@@ -81,20 +81,20 @@ The [*Revitalising Central Geelong Action Plan*](http://www.g21.com.au/sites/def
 
 The Green Spine is one of six *key moves* in the *Revitalising Central Geelong Action Plan*, turning Malop Street into a linear park connecting Eastern Park to Johnstone Park and the railway station. 
 
-[The first stage of the project](https://www.geelongaustralia.com.au/common/public/documents/8d4be2e7fa85b3e-RCG_GreenSpine_JUNE17_web.pdf) was constructed in 2018 from Moorabool Street to Yarra Street, with $8 million contributed by the City of Greater Geelong, Development Victoria and the Department of Environment, Land, Water and Planning. To accommodate the linear park, separated bicycle lanes and wider pedestrian space, parking was removed on the southern side of the road and turning lanes were removed at intersections. 
+[The first stage of the project](https://www.geelongaustralia.com.au/common/public/documents/8d4be2e7fa85b3e-RCG_GreenSpine_JUNE17_web.pdf) was constructed in 2018 from Moorabool Street to Yarra Street, with $8 million contributed by the City of Greater Geelong, Development Victoria and the Department of Environment, Land, Water and Planning. To accommodate the linear park, separated bicycle lanes, and wider pedestrian space; parking was removed on the southern side of the road and turning lanes were removed at intersections. 
 
 <figure>
     <img src="/images/2020-06/malop-spash.png" alt="Artists Impression of the Green Spine" height="364" width="688" />
     <figcaption>Source: City of Greater Geelong - Malop Street Green Spine</figcaption>
 </figure>
 
-The [award-winning](https://landscapeaustralia.com/articles/2019-national-landscape-architecture-awards-landscape-architecture-award-for-civic-landscape-2/) project adds to public open space, increases tree-canopy, encourages walking and cycling and serves as a meeting place in the centre of the CBD.
+The [award-winning](https://landscapeaustralia.com/articles/2019-national-landscape-architecture-awards-landscape-architecture-award-for-civic-landscape-2/) project adds to public open space, increases tree-canopy, encourages walking and cycling, and serves as a meeting place in the centre of the CBD.
 
-{% include gallery id="gallery2" caption="Malop Street Green Spine between Yarra and Moorabool streets" %}
+{% include gallery id="gallery2" layout="half" caption="Malop Street Green Spine between Yarra and Moorabool streets" %}
 
 ### Motion by the City of Greater Geelong
 
-Vocal opponents of the Green Spine citing traffic and parking issues led to Council discussing these impacts first in the 12 February 2019 meeting, then in the 25 June 2019, 10 December 2019, and 25 February 2020 meetings. All of these motions calling for increased traffic capacity and parking were moved by Cr Kontelj.
+Vocal opponents of the Green Spine who cited traffic and parking issues led to Council discussion of these impacts first in the 12 February 2019 meeting, then in the 25 June 2019, 10 December 2019, and 25 February 2020 meetings. All of these motions calling for increased traffic capacity and parking were moved by Cr Kontelj.
 
 Cr Kontelj's motion at the [City of Greater Geelong Council meeting on 25 February 2020](https://geelongaustralia.com.au/common/Public/Documents/8d7bf6b344b7c93-councilmeetingminutes-25february2020.pdf) moved:
 
@@ -148,15 +148,22 @@ So the qustion becomes, why did Council vote for the motion, against expert advi
 
 Read the full report [here](https://geelongaustralia.com.au/common/Public/Documents/8d77fea2e7f9a08-councilminutes-10december2019.pdf#page=234).
 
-The *synchronisation of traffic lights* point in the motion does have merit as drivers have trouble following [Rule 128](http://classic.austlii.edu.au/au/legis/vic/consol_reg/rsrr2017208/s128.html). Increasing Victoria Police enforcement activity, queue detectors, potential education campaigns from Council and *Keep Intersection Clear* signs may help resolve this issue. Increasing vehicle volumes along this street will not.
+Point 2.2 in the motion calling for *synchronisation of traffic lights* does have merit, as drivers have trouble following [Rule 128a](http://classic.austlii.edu.au/au/legis/vic/consol_reg/rsrr2017208/s128a.html). Increasing Victoria Police enforcement activity, queue detectors, potential education campaigns from Council, and *Keep Intersection Clear* signs may help resolve this issue. Increasing vehicle volumes along this street will not.
+
+> [**ROAD SAFETY ROAD RULES 2017 - REG 128A**](http://classic.austlii.edu.au/au/legis/vic/consol_reg/rsrr2017208/s128a.html)
+>
+> **Entering blocked crossings**
+> 
+> (1)     A driver must not enter a children's crossing, marked foot crossing or pedestrian crossing if the driver cannot drive through the crossing because the crossing, or a road beyond the crossing, is blocked. 
+
 
 {% include figure image_path="/images/2020-06/vehicles-blocking.jpg" alt="Vehicles blocking an intersection" caption="Vehicles blocking the pedestrian crossing" %}
 
 #### Parking
 
-At the expense of the northern separated bicycle lane, the Council motioned also called for an increase in 2P parking spaces.
+At the expense of the northern separated bicycle lane, the Council motion also called for an increase in 2P parking spaces.
 
-With a generous length of 6 metres per space as per AS 2890.5, and a total length of 140 metres of parking to be added (an overestimate if turning lanes are to be put in), a total of 21 parking spaces can be put into place. 1714 spaces in Westfield and 600 spaces in Market Square already cater for shoppers who drive in. $2 million to make cycling more dangerous, add 21 parking spaces, and reduce average travel time by one second? It's not hard to see why the State Government stepped in.
+With a generous length of 6 metres per space as per AS 2890.5, and a total length of 140 metres of parking to be added (an overestimate if turning lanes are to be put in), a total of 21 parking spaces can be installed. 1714 spaces in Westfield and 600 spaces in Market Square already cater for shoppers who drive in. $2 million to make cycling more dangerous, add 21 parking spaces, and reduce average travel time by one second? It's not hard to see why the State Government stepped in.
 
 > The price of on-street parking at many times is lower than off-street parking. This adds to congestion, as people driving search for a cheap, subsidised on-street parking space. On-street parking is public space which is used temporarily by a small number of people. Much of this space could be used more productively to benefit many more people.
 <figcaption><a href='https://s3.ap-southeast-2.amazonaws.com/hdp.au.prod.app.com-participate.files/1115/7975/8483/FINAL_Transport_Strategy.pdf#page=33'>City of Melbourne Transport Strategy 2030</a></figcaption>
@@ -260,6 +267,6 @@ And some comments from those in favour of the motion:
 >
 > They're indeed based on something, the community comments about the Green Spine are loud and furious and I think Cr Kontelj's is plagued, irritated and angry constituents, and that is evidence." -- Cr Asher, Mayor
 
-> "I actually think you have to respect the present, and you have to evolve the future. And I actually think this project now we've got enough evidence now to show it's actually disrespectful to the present." -- Cr Aitken
+> "I actually think you have to respect the present, and you have to evolve the future. And I actually think this project now, we've got enough evidence now to show it's actually disrespectful to the present." -- Cr Aitken
 
 ### Further reading
