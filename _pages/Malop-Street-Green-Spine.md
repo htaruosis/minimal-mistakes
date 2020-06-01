@@ -4,7 +4,7 @@ title: "Malop Street Green Spine"
 permalink: /drafts/green-spine
 sitemap: false
 search: false
-excerpt: 
+excerpt: "The State Government and the City of Greater Geelong are fighting over their key signature project in the CBD, the Green Spine. What went wrong?"
 excerpt_separator: <!--more-->
 published: true
 header:

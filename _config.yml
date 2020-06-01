@@ -20,13 +20,13 @@ title                    : "David Sisourath's Blog"
 title_separator          : "|"
 subtitle                 : #"Right turn from left only" # site tagline that appears below site title in masthead
 name                     : "David Sisourath"
-description              : ""
+description              : "Right turn from left only"
 url                      : "https://www.davidsisourath.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "htaruosis/htaruosis.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/images/favicon200.png" # "/images/trainIcon.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 masthead_svg             : true
-logo                     : "/images/icon.png" # "/images/trainIconSmall.png" # path of logo image to display in the masthead
+logo                     : #"/images/icon.png" # "/images/trainIconSmall.png" # path of logo image to display in the masthead
 # headersvg                : "/images/header.svg"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
