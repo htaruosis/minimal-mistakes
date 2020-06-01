@@ -20,7 +20,7 @@ title                    : "David Sisourath's Blog"
 title_separator          : "|"
 subtitle                 : #"Right turn from left only" # site tagline that appears below site title in masthead
 name                     : "David Sisourath"
-description              : "Welcome to my blog"
+description              : 
 url                      : "https://www.davidsisourath.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "htaruosis/htaruosis.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
