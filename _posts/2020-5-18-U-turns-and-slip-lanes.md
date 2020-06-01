@@ -7,7 +7,6 @@ search: true
 excerpt: "The slip lane is further along the road, and vehicles in the slip lane must give way to vehicles on the road, right?"
 excerpt_separator: <!--more-->
 published: true
-teaser: "/images/2020-05/UTurnGiveWayNoColour.png"
 header:
   og_image: "/images/2020-05/UTurnGiveWayNoColour.png"
 ---
