@@ -115,7 +115,7 @@ gallery8:
 
 The [Building Better Bike Connections project](https://www.geelongaustralia.com.au/betterbikeconnections/article/item/8d5465c3e31c2fa.aspx) is a $4.7 million project led by the City of Greater Geelong and funded by the TAC's Safer Pedestrian and Cyclist Fund. 
 
-The Western Link, part of the Central Geelong to Herne Hill Strategic Cycling Corridor, was approved by the City of Greater Geelong in the [14 August 2018 Council Meeting](https://www.geelongaustralia.com.au/common/Public/Documents/8d60433f260a79e-minutes-communityfocuscouncilmeeting14august.pdf#page=114), costing $1.325 million. The project links Little Malop Street at La Trobe Terrace to Minerva Road in Manifold Heights, just falling short of Hearne Hill. The Strategic Cycling Corridor extends north up Minerva Street and west along Autumn Street to Hearn Hill, which was not within the scope of this project.
+The Western Link, part of the Central Geelong to Herne Hill Strategic Cycling Corridor, was approved by the City of Greater Geelong in the [14 August 2018 Council Meeting](https://www.geelongaustralia.com.au/common/Public/Documents/8d60433f260a79e-minutes-communityfocuscouncilmeeting14august.pdf#page=114), costing $1.325 million. The project links Little Malop Street at La Trobe Terrace to Minerva Road in Manifold Heights, just falling short of Herne Hill. The Strategic Cycling Corridor extends north up Minerva Street and west along Autumn Street to Herne Hill, which was not within the scope of this project.
 
 The project uses various traffic calming measures and signage to reduce through traffic and speeds along this corridor and aims to encourage cycling as a means of transport for all ages and abilities.
 
