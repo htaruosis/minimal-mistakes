@@ -17,7 +17,7 @@ gallery1:
     alt: "Southern Link map"
   - url: /images/2020-06/western-link.jpg
     image_path: /images/2020-06/western-link.jpg
-    alt: "Westerm Link map"
+    alt: "Western Link map"
     
 gallery2:
   - url: /images/2020-06/misc-1.jpg
