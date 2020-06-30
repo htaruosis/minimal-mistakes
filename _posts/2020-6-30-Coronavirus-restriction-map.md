@@ -60,10 +60,14 @@ header:
         });
     }
     var mymap = L.map('mapid').setView([-37.8174, 144.9564], 11);
-    L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {
-        maxZoom: 20, 
-        attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors | Postcodes from <a href="https://discover.data.vic.gov.au/dataset/postcode-boundaries-polygon-vicmap-admin">DELWP</a> under CC BY 4.0'
-    }).addTo(mymap); 
+    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        maxZoom: 18,
+        id: 'mapbox/dark-v10',
+        tileSize: 512,
+        zoomOffset: -1,
+        accessToken: 'pk.eyJ1IjoiZGl2YWRvIiwiYSI6ImNrYzIyeHgwdjF6eXYzNG54Yjk4Zzh6dWUifQ.p_uNs4ap_9MxrbVGuFWWiA'
+    }).addTo(mymap);
     var geojsonLayer = new L.GeoJSON.AJAX("/images/2020-06/user_polygon/VMADMIN/postcode_1.json" ,{style: style, onEachFeature: onEachFeature});
     geojsonLayer.addTo(mymap);
     // add GeoJSON layer to the map once the file is loaded
