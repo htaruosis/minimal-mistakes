@@ -61,7 +61,7 @@ header:
     }
     var mymap = L.map('mapid').setView([-37.8174, 144.9564], 11);
     L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors | Postcodes from <a href="https://discover.data.vic.gov.au/dataset/postcode-boundaries-polygon-vicmap-admin">DELWP</a> under CC BY 4.0, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors | Postcodes from <a href="https://discover.data.vic.gov.au/dataset/postcode-boundaries-polygon-vicmap-admin">DELWP</a> under CC BY 4.0 | Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
         maxZoom: 18,
         id: 'mapbox/dark-v10',
         tileSize: 512,
