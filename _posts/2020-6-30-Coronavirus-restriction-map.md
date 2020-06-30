@@ -41,13 +41,13 @@ header:
             }
         else {
                 return {
-            fillColor: 'green',
-            color: 'green',
-            weight: 1,
-            opacity: 1,
-            fillOpacity: 0.1
-            };
-        }
+                fillColor: 'green',
+                color: 'green',
+                weight: 1,
+                opacity: 1,
+                fillOpacity: 0.1
+                };
+            }
     }
     function zoomToFeature(e) {
         mymap.fitBounds(e.target.getBounds());
