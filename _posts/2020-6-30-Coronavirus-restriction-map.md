@@ -8,7 +8,7 @@ excerpt:
 excerpt_separator: <!--more-->
 published: true
 header:
-  og_image: 
+  og_image: "/images/2020-06/map-og.png"
 ---
     
 <style>
