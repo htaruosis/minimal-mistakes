@@ -1,6 +1,6 @@
 import json
 
-jsonFile = open("postcode_all.json")
+jsonFile = open("postcode_polygon.json")
 pythonObject = json.load(jsonFile)
 
 i = 0
@@ -35,7 +35,7 @@ del pythonObject['features'][i]
 
 # Save name as bottom left corner lat long
 #'''
-fileName = 'postcode_1' + ".json"
+fileName = 'postcode' + ".json"
 writeFile = open(fileName, 'x')
 json.dump(pythonObject, writeFile)
 #'''

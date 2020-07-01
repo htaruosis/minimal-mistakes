@@ -68,7 +68,7 @@ header:
         zoomOffset: -1,
         accessToken: 'pk.eyJ1IjoiZGl2YWRvIiwiYSI6ImNrYzIyeHgwdjF6eXYzNG54Yjk4Zzh6dWUifQ.p_uNs4ap_9MxrbVGuFWWiA'
     }).addTo(mymap);
-    var geojsonLayer = new L.GeoJSON.AJAX("/images/2020-06/user_polygon/VMADMIN/postcode_1.json" ,{style: style, onEachFeature: onEachFeature});
+    var geojsonLayer = new L.GeoJSON.AJAX("/images/2020-06/user_polygon/VMADMIN/postcode.json" ,{style: style, onEachFeature: onEachFeature});
     geojsonLayer.addTo(mymap);
     // add GeoJSON layer to the map once the file is loaded
 //    var datalayer = L.geoJson(geojsonLayer ,{
@@ -79,3 +79,18 @@ header:
 //    mymap.fitBounds(datalayer.getBounds());
 //    });
 </script>
+
+#### Postcode list:
+
+  * 3012: Brooklyn, Kingsville, Maidstone, Tottenham, West Footscray
+  * 3021: Albanvale, Kealba, Kings Park, St Albans
+  * 3032: Ascot Vale, Highpoint City, Maribyrnong, Travancore
+  * 3038: Keilor Downs, Keilor Lodge, Taylors Lakes, Watergardens
+  * 3042: Airport West, Keilor Park, Niddrie
+  * 3046: Glenroy, Hadfield, Oak Park
+  * 3047: Broadmeadows, Dallas, Jacana
+  * 3055: Brunswick South, Brunswick West, Moonee Vale, Moreland West
+  * 3060: Fawkner
+  * 3064: Craigieburn, Donnybrook, Mickleham, Roxburgh Park and Kalkallo
+  
+**Source: [ABC](https://www.abc.net.au/news/2020-07-01/victorian-premier-warns-all-suburbs-could-lockdown-if-cases-rise/12409000)**
