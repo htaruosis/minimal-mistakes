@@ -49,15 +49,15 @@ header:
                 };
             }
     }
-    function zoomToFeature(e) {
-        mymap.fitBounds(e.target.getBounds());
-    }
+//    function zoomToFeature(e) {
+//        mymap.fitBounds(e.target.getBounds());
+//    }
 
     function onEachFeature(feature, layer) {
 		layer.bindPopup("<p>Postcode: " + feature.properties.POSTCODE + "<br>Stage three restrictions: " + feature.properties.Stage3 + "</p>");
-        layer.on({
-            click: zoomToFeature
-        });
+//        layer.on({
+//            click: zoomToFeature
+//        });
     }
     var mymap = L.map('mapid').setView([-37.8174, 144.9564], 11);
     L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
