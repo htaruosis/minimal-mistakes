@@ -93,4 +93,6 @@ header:
   * 3060: Fawkner
   * 3064: Craigieburn, Donnybrook, Mickleham, Roxburgh Park and Kalkallo
   
-**Source: [ABC](https://www.abc.net.au/news/2020-07-01/victorian-premier-warns-all-suburbs-could-lockdown-if-cases-rise/12409000)**
+*Source: [ABC](https://www.abc.net.au/news/2020-07-01/victorian-premier-warns-all-suburbs-could-lockdown-if-cases-rise/12409000)*
+               
+Read more: [Press release from the Victorian Premier](https://www.premier.vic.gov.au/statement-from-the-premier-47/)
