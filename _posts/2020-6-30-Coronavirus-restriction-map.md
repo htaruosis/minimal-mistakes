@@ -68,7 +68,7 @@ header:
         zoomOffset: -1,
         accessToken: 'pk.eyJ1IjoiZGl2YWRvIiwiYSI6ImNrYzIyeHgwdjF6eXYzNG54Yjk4Zzh6dWUifQ.p_uNs4ap_9MxrbVGuFWWiA'
     }).addTo(mymap);
-    var geojsonLayer = new L.GeoJSON.AJAX("/images/2020-06/user_polygon/VMADMIN/postcode.json" ,{style: style, onEachFeature: onEachFeature});
+    var geojsonLayer = new L.GeoJSON.AJAX("/images/2020-06/user_polygon/VMADMIN/postcode1.json" ,{style: style, onEachFeature: onEachFeature});
     geojsonLayer.addTo(mymap);
     // add GeoJSON layer to the map once the file is loaded
 //    var datalayer = L.geoJson(geojsonLayer ,{
