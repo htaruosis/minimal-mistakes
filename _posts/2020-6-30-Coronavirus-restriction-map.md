@@ -30,7 +30,16 @@ header:
 
 <script>
     function style(feature) {
-        if (feature.properties.Stage3 == 'Yes') {
+        if (feature.properties.Stage3 == 'N/A') {
+            return {
+                fillColor: 'green',
+                color: 'green',
+                weight: 1,
+                opacity: 1,
+                fillOpacity: 0.1
+                };
+            }
+        else {
             return {
                 fillColor: 'red',
                 color: 'red',
@@ -39,22 +48,13 @@ header:
                 fillOpacity: 0.2
                 };
             }
-        else {
-                return {
-                fillColor: 'green',
-                color: 'green',
-                weight: 1,
-                opacity: 1,
-                fillOpacity: 0.1
-                };
-            }
     }
 //    function zoomToFeature(e) {
 //        mymap.fitBounds(e.target.getBounds());
 //    }
 
     function onEachFeature(feature, layer) {
-		layer.bindPopup("<p>Postcode: " + feature.properties.POSTCODE + "<br>Stage three restrictions: " + feature.properties.Stage3 + "</p>");
+		layer.bindPopup("<p>Postcode: " + feature.properties.POSTCODE + "<br>Stage Three start date: " + feature.properties.Stage3 + "</p>");
 //        layer.on({
 //            click: zoomToFeature
 //        });
@@ -68,7 +68,7 @@ header:
         zoomOffset: -1,
         accessToken: 'pk.eyJ1IjoiZGl2YWRvIiwiYSI6ImNrYzIyeHgwdjF6eXYzNG54Yjk4Zzh6dWUifQ.p_uNs4ap_9MxrbVGuFWWiA'
     }).addTo(mymap);
-    var geojsonLayer = new L.GeoJSON.AJAX("/images/2020-06/user_polygon/VMADMIN/postcode1.json" ,{style: style, onEachFeature: onEachFeature});
+    var geojsonLayer = new L.GeoJSON.AJAX("/images/2020-06/user_polygon/VMADMIN/postcode.json" ,{style: style, onEachFeature: onEachFeature});
     geojsonLayer.addTo(mymap);
     // add GeoJSON layer to the map once the file is loaded
 //    var datalayer = L.geoJson(geojsonLayer ,{
@@ -96,3 +96,11 @@ header:
 *Source: [ABC](https://www.abc.net.au/news/2020-07-01/victorian-premier-warns-all-suburbs-could-lockdown-if-cases-rise/12409000)*
                
 Read more: [Press release from the Victorian Premier](https://www.premier.vic.gov.au/statement-from-the-premier-47/)
+               
+#### Update 04/07/2020:
+
+These postcodes will be under Stage Three restrictions from 11.59pm 4 July 2020:
+  * 3031: Kensington, Flemington
+  * 3051: North Melbourne
+               
+Read more: [Press release from the Victorian Premier](https://www.premier.vic.gov.au/statement-from-the-premier-48/)

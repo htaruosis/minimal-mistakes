@@ -6,12 +6,16 @@ pythonObject = json.load(jsonFile)
 i = 0
 while i < len(pythonObject['features']):
     postcode1 = pythonObject['features'][i]['properties']['POSTCODE']
-    infected = ["3038", "3064", "3047", "3060", "3012", "3032", "3055", "3042", "3021", "3046"]
-    if postcode1 not in infected:
-        pythonObject['features'][i]['properties']['Stage3'] = "No"
+    infected1 = ["3038", "3064", "3047", "3060", "3012", "3032", "3055", "3042", "3021", "3046"]
+    infected2 = ["3031", "3051"]
+    if postcode1 in infected1:
+        pythonObject['features'][i]['properties']['Stage3'] = "11.59pm 1 July 2020"
+        i += 1
+    elif postcode1 in infected2:
+        pythonObject['features'][i]['properties']['Stage3'] = "11.59pm 4 July 2020"
         i += 1
     else:
-        pythonObject['features'][i]['properties']['Stage3'] = "Yes"
+        pythonObject['features'][i]['properties']['Stage3'] = "N/A"
         i += 1
 '''
     j = i + 1
