@@ -80,6 +80,8 @@ header:
 //    });
 </script>
 
+#### Update: Restrictions have been extended to the whole of metropolitan Melbourne, plus Mitchell Shire. [Read more](https://www.premier.vic.gov.au/statement-from-the-premier-47/).
+
 #### Postcode list:
 
   * 3012: Brooklyn, Kingsville, Maidstone, Tottenham, West Footscray
