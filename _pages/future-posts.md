@@ -2,7 +2,11 @@
 layout: single
 title: Future posts
 permalink: /future-posts/
+sitemap: false
+search: false
 ---
+
+<meta name="robots" content="noindex">
 
 ### A quick glance at what's to come <!--<span style="font-weight:normal">(in no particular order)</span>-->
 * Malop Street - Revitalising Central Geelong Action Plan

@@ -6,7 +6,5 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Future posts"
-    url: /future-posts/
   - title: "List of posts"
     url: /posts-by-year/
